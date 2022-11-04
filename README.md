@@ -2,7 +2,7 @@
 
 
 The training program is the 2nd cohort of ALX-T Udacity Data Analyst nanodegree program.
-This project was carried out during training as a data analyst in Udacity Data Analyst nanodegree program sponsored bt ALX-T.
+This project was carried out during training in Udacity nanodegree Data Analyst program sponsored by ALX-T.
 
 
 In this project, the major factor responsible for patients not showing up (NoShow) for their medical appointment will be analyzed. This dataset contains information from 110,526 patients in Brazil.
